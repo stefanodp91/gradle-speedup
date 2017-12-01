@@ -41,4 +41,7 @@ org.gradle.parallel=true
 
 # Enable configure on demand.
 org.gradle.configureondemand=true
+
+# Not needed for speedup. It prevents Aapt2Exception
+android.enableAapt2=false
 ```
