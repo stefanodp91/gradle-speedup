@@ -23,7 +23,7 @@ compile 'com.android.support:appcompat-v7:27.0.2'
 instead of
 
 ```
-compile 'com.android.support:appcompat-v7:23.+'
+compile 'com.android.support:appcompat-v7:27.+'
 ```
 
 
